@@ -1,1 +1,11 @@
-hellow
+https://www.youtube.com/watch?v=odpjzEnUabs
+
+git init     (git repository initialize kora)
+git add .     ( sob file gite add kora)
+git commit -m "first comment"   ( git update korte hole comment kore update dite hoy)
+
+
+=== file upoad repesitory ==
+git branch -m main
+git remote add origin https://github.com/nucshahjalal/firstgitupload.git
+git push origin main
