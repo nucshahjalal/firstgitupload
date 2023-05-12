@@ -9,3 +9,11 @@ git commit -m "first comment"   ( git update korte hole comment kore update dite
 git branch -m main
 git remote add origin https://github.com/nucshahjalal/firstgitupload.git
 git push origin main
+
+
+
+==second time ==
+git branch -m main
+git add . 
+git commit -m "first comment" 
+git push origin main
